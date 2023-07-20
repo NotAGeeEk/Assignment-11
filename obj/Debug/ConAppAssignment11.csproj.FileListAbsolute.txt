@@ -1,0 +1,8 @@
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\bin\Debug\ConAppAssignment11.exe.config
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\bin\Debug\ConAppAssignment11.exe
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\bin\Debug\ConAppAssignment11.pdb
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\obj\Debug\ConAppAssignment11.csproj.AssemblyReference.cache
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\obj\Debug\ConAppAssignment11.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\obj\Debug\ConAppAssignment11.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\obj\Debug\ConAppAssignment11.exe
+D:\assignemt exercise\assignment-11\ConAppAssignment11\ConAppAssignment11\obj\Debug\ConAppAssignment11.pdb
